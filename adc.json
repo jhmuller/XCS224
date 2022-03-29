@@ -1,0 +1,17 @@
+{
+  "client_id": "32555940559.apps.googleusercontent.com",
+  "client_secret": "ZmssLNjJy2998hD4CTg2ejr2",
+  "refresh_token": "1//05rt8mHmR8zIrCgYIARAAGAUSNwF-L9Ir4SrRiE-ROch2A-cTA2hxtjhwS4ZyQg4XW_IesYokIGuD37r842BSy9_iR_sR1OAGPzo",
+  "revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
+  "scopes": [
+    "openid",
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/cloud-platform",
+    "https://www.googleapis.com/auth/appengine.admin",
+    "https://www.googleapis.com/auth/compute",
+    "https://www.googleapis.com/auth/accounts.reauth",
+    "https://www.googleapis.com/auth/drive"
+  ],
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "type": "authorized_user"
+}
